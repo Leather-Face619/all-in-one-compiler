@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "compile-run": "^2.3.4",
+    "java": "^0.14.0"
+  }
+}
